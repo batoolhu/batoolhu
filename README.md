@@ -4,7 +4,7 @@
   <strong>Computer Systems Engineering Student • Front-End Developer</strong>
 </p>
 
-Welcome 👋
+### Welcome 👋
 👩‍💻 Computer Systems Engineering Student @ PTUK
 🌐 Front-End Developer
 💡 Interested in building practical web applications
