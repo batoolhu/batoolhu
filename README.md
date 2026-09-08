@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Batool 👋
 
-<!--
-**batoolhu/batoolhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Engineering student and Front-End Developer who enjoys building practical and user-friendly web applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Computer Systems Engineering Student
+- 🌐 Front-End Developer
+- 💡 Interested in building practical web applications
+- 📚 Always learning and improving my technical skills
+
+### 🧰 Technologies & Tools
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+
+**Programming & Backend**
+- Python
+- Express.js
+- REST APIs
+
+**Database**
+- SQL
+
+**Tools**
+- Git
+- GitHub
+- Webpack
+
+### 🌱 Currently Learning
+
+- TypeScript
+- Docker
+- Backend Development
+
+### 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/batool-hussien
+
+---
+
+⭐ Thanks for visiting my profile!
