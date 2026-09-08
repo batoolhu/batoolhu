@@ -1,18 +1,22 @@
-# Hi 👋, I'm Batool
+<h1 align="center">✨ Hey, I'm Batool Hussein</h1>
 
-### Welcome 🌷
+<p align="center">
+  <strong>Computer Systems Engineering Student • Front-End Developer</strong>
+</p>
 
-* 👩‍💻 Computer Systems Engineering Student @ PTUK
-* 💻 Front-End Developer
-* 🌱 Currently learning TypeScript, Docker & Backend Development
-* 🚀 Building projects and continuously learning new technologies
+### Welcome 👋
 
-### Connect with me:
+👩‍💻 Computer Systems Engineering Student @ PTUK
+💻 Front-End Developer
+📚 Currently learning TypeScript, Docker & Backend Development
+🚀 Building projects and continuously learning new technologies
 
-www.linkedin.com/in/batool-hussien
+### Connect with me 🤝
 
-### Languages and Tools:
+[LinkedIn](YOUR_LINKEDIN_LINK)
+
+### Languages and Tools 🛠️
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql,git,github,linux,docker,express,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql,git,github,docker,express,webpack" />
 </p>
