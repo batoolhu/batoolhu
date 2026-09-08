@@ -18,5 +18,5 @@
 ### Languages and Tools 🛠️
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql,git,github,docker,express,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql,git,github,express,webpack" />
 </p>
