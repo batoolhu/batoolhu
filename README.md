@@ -1,40 +1,21 @@
-# Hi, I'm Batool 👋
+# Hi 👋, I'm Batool
 
-I'm a Computer Systems Engineering student and Front-End Developer who enjoys building practical and user-friendly web applications.
+### Welcome 🌷
 
-### 🚀 About Me
+* 👩‍💻 Computer Systems Engineering Student @ PTUK
+* 💻 Front-End Developer
+* 🌱 Currently learning TypeScript, Docker & Backend Development
+* 🚀 Building projects and continuously learning new technologies
 
-- 👩‍💻 Computer Systems Engineering Student
-- 🌐 Front-End Developer
-- 💡 Interested in building practical web applications
-- 📚 Always learning and improving my technical skills
+### Connect with me:
 
-### 🧰 Technologies & Tools
+www.linkedin.com/in/batool-hussien
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- Responsive Web Design
+### Languages and Tools:
 
-**Programming & Backend**
-- Python
-- Express.js
-- REST APIs
-
-**Database**
-- SQL
-
-**Tools**
-- Git
-- GitHub
-- Webpack
-
-### 🌱 Currently Learning
-
-- TypeScript
-- Docker
-- Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,git,github,express,webpack" />
+</p>
 
 ### 📫 Connect With Me
 
