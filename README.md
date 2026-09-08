@@ -14,13 +14,5 @@ www.linkedin.com/in/batool-hussien
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,git,github,express,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql,git,github,linux,docker,express,webpack" />
 </p>
-
-### 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/batool-hussien
-
----
-
-⭐ Thanks for visiting my profile!
