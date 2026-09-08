@@ -4,12 +4,11 @@
   <strong>Computer Systems Engineering Student • Front-End Developer</strong>
 </p>
 
-### Welcome 👋
-
+Welcome 👋
 👩‍💻 Computer Systems Engineering Student @ PTUK
-💻 Front-End Developer
-📚 Currently learning TypeScript, Docker & Backend Development
-🚀 Building projects and continuously learning new technologies
+🌐 Front-End Developer
+💡 Interested in building practical web applications
+📚 Always learning and improving my technical skills
 
 ### Connect with me 🤝
 
