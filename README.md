@@ -13,7 +13,7 @@
 
 ### Connect with me 🤝
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+[LinkedIn](www.linkedin.com/in/batool-hussien)
 
 ### Languages and Tools 🛠️
 
